@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(74, 25, 67);
+    background-color: rgb(85, 74, 157);
 }
 
 h2{
@@ -19,6 +19,7 @@ h2{
     background-color: black;
     padding:10px;
     border-radius: 10px;
+    border:5px solid white;
 }
 
 .navHomepage:hover{
@@ -27,17 +28,19 @@ h2{
 }
 
 textarea{
-    background-color:  rgb(232, 108, 232);
-    color:white;
+    background-color:  white;
+    color:black;
     height:100px;
     font-size: 2rem;
+    border: 5px solid black;
 }
 
 input{
-    background-color: rgb(232, 108, 232);
+    background-color: white;
     color:white;
     height:50px;
     font-size: 2rem;
+    border: 5px solid black;
 }
 
 button{
