@@ -864,4 +864,8 @@ a.formLink:hover{
     transition: color .5s ease-in;
 }
 
+h2.introText{
+    font-size: 5rem;
+}
+
 /*========================Thank you=================
